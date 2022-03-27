@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+.cardRow{
+    padding:0;
+    margin:0;
+}
+.labels{
+    font-size: 15px;
+    padding-right: 10%;
+}
+.headers{
+    font-size: 22px;
+    margin-left: 5px;
+    padding-bottom: 5px;
+    border-bottom: 3px #7faffd solid;
+    font-family: 'Roboto Slab', serif;
+}
+.pref{
+    margin-top: 0;
+    padding-top: 0;
+}
+.btn-sub{
+    margin-top:16%;
+}

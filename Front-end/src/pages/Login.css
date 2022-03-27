@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+.login-logo {
+  margin:0;
+  padding:  0;
+  /* min-height: 40%; */
+  text-align: center;
+  border-radius: 100% 100% ;
+  width: 100%;
+ 
+}
+.welcome{
+  margin:10px;
+  font-size: 40px;
+  font-family: 'Fredoka One', cursive;
+}
+.login-logo img {
+  max-width:100%;
+}
+@media only screen and (min-width: 1000px){
+  .login-logo img {
+    max-width:500px;
+    height: 400px;
+  }
+}
+.list {
+  margin-bottom: 0;
+}
+
+.loginLabel{
+  opacity: 0.5;
+}
+.errorLogin{
+  font-size: 12px;
+  color: rgb(49, 49, 49);
+}
+.vendor-txt{
+  margin-left:50%;
+  margin-top:30%;
+}
+.arrow{
+  width:20px;
+}

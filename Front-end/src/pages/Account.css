@@ -1,0 +1,15 @@
+#account-page img {
+  max-width: 140px;
+  border-radius: 50%;
+
+}
+.CurrBudget{
+  font-size: 40px;
+  margin-top: 30px;
+  
+}
+
+/* .acc-content{
+  --background:  url("backgnd.png") 100% 100%  !important;
+
+} */
